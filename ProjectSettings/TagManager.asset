@@ -1,0 +1,62 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - painting
+  - Target
+  - Button
+  - Music
+  - Portrait
+  - STLButton
+  - RivButton
+  - AgButton
+  - PeoButton
+  - IndButton
+  - TowButton
+  - KCButton
+  - LobButton
+  - ActiveButton
+  - tombstone
+  - instructionButton
+  - Undefined
+  - tombstoneLarge
+  - NewRoom
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Rooms
+  - teleport
+  - PostProcessing
+  - Reflection
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
